@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyUnityProject\\AnimeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|D:\\MyUnityProject\\AnimeGame\\assets\\scripts\\fruit\\fruitcombiner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit\\fruitcombiner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|d:\\myunityproject\\animegame\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|D:\\MyUnityProject\\AnimeGame\\assets\\scripts\\fruit\\triggerloss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit\\triggerloss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|D:\\MyUnityProject\\AnimeGame\\assets\\scripts\\fruit\\fruitinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit\\fruitinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|D:\\MyUnityProject\\AnimeGame\\assets\\scripts\\fruit\\spriteindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit\\spriteindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|D:\\MyUnityProject\\AnimeGame\\assets\\scripts\\fruit\\colliderinformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit\\colliderinformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|D:\\MyUnityProject\\AnimeGame\\assets\\scripts\\fruit\\fruitselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit\\fruitselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|D:\\MyUnityProject\\AnimeGame\\assets\\scripts\\fruit\\throwfruitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit\\throwfruitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|D:\\MyUnityProject\\AnimeGame\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|D:\\MyUnityProject\\AnimeGame\\assets\\scripts\\player\\aimlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\aimlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|D:\\MyUnityProject\\AnimeGame\\assets\\input\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|solutionrelative:assets\\input\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|D:\\MyUnityProject\\AnimeGame\\assets\\scripts\\layout\\radial layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A967DBCE-5368-0697-BE36-C1CFD0827E89}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\layout\\radial layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriggerLoss.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\TriggerLoss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fruit\\TriggerLoss.cs",
+              "ToolTip": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\TriggerLoss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fruit\\TriggerLoss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:53:09.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:51:56.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitCombiner.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\FruitCombiner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fruit\\FruitCombiner.cs",
+              "ToolTip": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\FruitCombiner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fruit\\FruitCombiner.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:45:36.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FruitInfo.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\FruitInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fruit\\FruitInfo.cs",
+              "ToolTip": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\FruitInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fruit\\FruitInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:40:40.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColliderInformer.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\ColliderInformer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fruit\\ColliderInformer.cs",
+              "ToolTip": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\ColliderInformer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fruit\\ColliderInformer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:28:34.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FruitSelector.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\FruitSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fruit\\FruitSelector.cs",
+              "ToolTip": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\FruitSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fruit\\FruitSelector.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:11:02.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpriteIndex.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\SpriteIndex.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fruit\\SpriteIndex.cs",
+              "ToolTip": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\SpriteIndex.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fruit\\SpriteIndex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:32:10.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThrowFruitController.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\ThrowFruitController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fruit\\ThrowFruitController.cs",
+              "ToolTip": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Fruit\\ThrowFruitController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fruit\\ThrowFruitController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwDYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:17:50.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AimLineController.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Player\\AimLineController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\AimLineController.cs",
+              "ToolTip": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Player\\AimLineController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\AimLineController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:47:14.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:02:01.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserInput.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\AnimeGame\\Assets\\Input\\UserInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Input\\UserInput.cs",
+              "ToolTip": "D:\\MyUnityProject\\AnimeGame\\Assets\\Input\\UserInput.cs",
+              "RelativeToolTip": "Assets\\Input\\UserInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:44:45.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Radial Layout.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Layout\\Radial Layout.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Layout\\Radial Layout.cs",
+              "ToolTip": "D:\\MyUnityProject\\AnimeGame\\Assets\\Scripts\\Layout\\Radial Layout.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Layout\\Radial Layout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:58:25.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
